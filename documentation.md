@@ -1,4 +1,5 @@
-#***LaTex documentation***
+***LaTex documentation***
+===============================
 
 ##Lists and nested lists
 ###lists
