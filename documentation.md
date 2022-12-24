@@ -27,7 +27,6 @@ rename ***master*** to ***main***
     git remote -v
 ```
 it should display:
--------------------
 ```
     origin	git@github.com:ShafeAhmed/LaTex.git (fetch)
     origin	git@github.com:ShafeAhmed/LaTex.git (push)
