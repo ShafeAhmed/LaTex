@@ -1,11 +1,9 @@
 ## Importing the repository locally
 #### 1.create directory with prefered name
------------------------
 ```
     mkdir <DIR NAME>
 ```
 #### 2.initialize repository
-----------------
 ```
     git init
 ```
@@ -16,12 +14,10 @@ rename ***master*** to ***main***
 ```
 
 #### 3.add remote Github remote repository
---------------------------
 ```
     git remote add origin git@github.com:ShafeAhmed/LaTex.git
 ```
 #### 4.verify remote repository
--------------------------
 ```
     git remote -v
 ```
@@ -31,20 +27,16 @@ rename ***master*** to ***main***
     origin	git@github.com:ShafeAhmed/LaTex.git (push)
 ```
 #### Trouble Shooting resources
-=================================
-Github documentation:
+###### Github documentation:
 >>[https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github "Title").
 
 
 
 
 # LaTex documentation
-===============================
 
 ## 1.Lists and nested lists
-===================
 ### 1.1 lists
--------
 
 ```LaTex
 {
@@ -84,7 +76,6 @@ Github documentation:
 ```
 
 ### 1.3 comments
----------
 
 ```LaTex
 {
