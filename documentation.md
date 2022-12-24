@@ -3,16 +3,16 @@ Importing the repository locally
 1.create directory with prefered name
 -----------------------
 ```
-{
+
     mkdir <DIR NAME>
-}
+
 ```
 2.initialize repository
 ----------------
 ```
-{
+
     git init
-}
+
 ```
 
 3.add remote Github remote repository
