@@ -2,7 +2,8 @@
 ===============================
 
 ##Lists and nested lists
-###lists
+lists
+-------
 
 ```LaTex
 {
@@ -12,7 +13,8 @@
 }
 ```
 
-#nested lists
+nested lists
+----------
 
 ```LaTex
 {
@@ -40,7 +42,8 @@
 }
 ```
 
-#comments
+comments
+---------
 
 ```LaTex
 {
