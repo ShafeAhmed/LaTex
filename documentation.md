@@ -42,7 +42,8 @@ Github documentation:
 ***LaTex documentation***
 ===============================
 
-##Lists and nested lists
+Lists and nested lists
+===================
 lists
 -------
 
