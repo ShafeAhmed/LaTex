@@ -10,8 +10,7 @@ Importing the repository locally
 ```
     git init
 ```
-by default branch name is ***master*** but you can rename
------------------------------------
+>>by default branch name is ***master*** but you can rename
 rename ***master*** to ***main***
 ```
     git branch -m master main
