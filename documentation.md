@@ -44,7 +44,7 @@ Github documentation:
 
 1.Lists and nested lists
 ===================
->>1.1 lists
+1.1 lists
 -------
 
 ```LaTex
@@ -55,7 +55,7 @@ Github documentation:
 }
 ```
 
->>1.2 nested lists
+1.2 nested lists
 ----------
 
 ```LaTex
@@ -84,7 +84,7 @@ Github documentation:
 }
 ```
 
->>1.3 comments
+1.3 comments
 ---------
 
 ```LaTex
