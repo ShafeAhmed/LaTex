@@ -1,3 +1,50 @@
+Importing the repository locally
+========================
+1.create directory with prefered name
+-----------------------
+```
+{
+    mkdir <DIR NAME>
+}
+```
+2.initialize repository
+----------------
+```
+{
+    git init
+}
+```
+
+3.add remote Github remote repository
+--------------------------
+```
+{
+    git remote add origin git@github.com:ShafeAhmed/LaTex.git
+    
+}
+```
+4.verify remote repository
+-------------------------
+```
+{
+    git remote -v
+}
+```
+it should display:
+-------------------
+```
+{
+    origin	git@github.com:ShafeAhmed/LaTex.git (fetch)
+    origin	git@github.com:ShafeAhmed/LaTex.git (push)
+}
+```
+Trouble Shooting resources
+=================================
+
+
+
+
+
 ***LaTex documentation***
 ===============================
 
