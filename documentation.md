@@ -42,9 +42,9 @@ Github documentation:
 ***LaTex documentation***
 ===============================
 
-Lists and nested lists
+1.Lists and nested lists
 ===================
-lists
+>>1.1 lists
 -------
 
 ```LaTex
@@ -55,7 +55,7 @@ lists
 }
 ```
 
-nested lists
+>>1.2 nested lists
 ----------
 
 ```LaTex
@@ -84,7 +84,7 @@ nested lists
 }
 ```
 
-comments
+>>1.3 comments
 ---------
 
 ```LaTex
